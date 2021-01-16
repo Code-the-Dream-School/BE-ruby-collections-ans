@@ -1,6 +1,6 @@
-# backend1-week-3
+# Ruby Collections, Conditional Statements, and Loops
 
-More Ruby programming.  Create a git branch for backend-1-lesson-3.  Then add the following ruby programs to it.
+More Ruby programming.  Create a git branch for ruby-collections-lesson.  Then add the following ruby programs to it.
 
 (1) Write a program which asks for a person's first name, then middle, then last.  It should store each of these parts in an array. Finally, it should greet the person using their full name.  Call the program full_name.rb.
 
